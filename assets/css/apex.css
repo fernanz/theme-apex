@@ -626,7 +626,7 @@ div.post p.back {
 }
 div.post p.read-more a,
 div.post p.back a {
-  color: #656d78;
+  color: #f00;
 }
 div.post p.read-more a:hover,
 div.post p.back a:hover {
