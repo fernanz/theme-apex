@@ -391,6 +391,9 @@ div.header:after {
   display: table;
   clear: both;
 }
+.aller {
+  font-family: "Aller" sans-serif;
+}
 div.posts {
   padding-top: 95px;
 }
