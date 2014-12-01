@@ -851,12 +851,13 @@ div.footer ul li.link-icon a {
   }
   div.header {
     position: relative;
+    padding-top: 20px;
     height: 200px;
     border: 5px solid #ffffff;
   }
   div.header.span4 {
     margin: 0;
-    padding: 10px 0;
+    padding: 0;
   }
   div.header div.title ul.social {
     display: none;
