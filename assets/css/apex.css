@@ -847,7 +847,7 @@ div.footer ul li.link-icon a {
 /* Landscape phone to portrait tablet */
 @media (max-width: 767px) {
   body {
-    padding: 0;
+    padding: 20px 0 0 0;
   }
   div.header {
     position: relative;
