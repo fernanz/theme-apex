@@ -252,7 +252,7 @@ div.header {
   padding: 0;
   margin: 0;
   height: 100%;
-  background-color: #AAB2BD;
+  background-color: #f5f7fa;
   margin-left: 0;
   padding: 0 2.12765957% 0 2.12765957%;
 }
@@ -341,7 +341,7 @@ div.header div.site-description ul li {
   padding-bottom: 14px;
 }
 div.header div.site-description ul li a {
-  color: #fff;
+  color: #f00;
   font-size: 14px;
 }
 div.header div.site-description ul li a:hover,
@@ -626,7 +626,7 @@ div.post p.back {
 }
 div.post p.read-more a,
 div.post p.back a {
-  color: #f00;
+  color: #656d78;
 }
 div.post p.read-more a:hover,
 div.post p.back a:hover {
