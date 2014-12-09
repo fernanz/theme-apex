@@ -214,7 +214,7 @@ p {
   padding: 0;
   margin: 0;
 }
-small {
+p small {
   font-family: 'Lora', serif;
   font-style: italic;
   font-size: 10px;
