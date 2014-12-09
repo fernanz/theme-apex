@@ -214,12 +214,12 @@ p {
   padding: 0;
   margin: 0;
 }
-p small {
+small {
   font-family: 'Lora', serif;
   font-style: italic;
-  font-size: 10px;
+  font-size: 10px !important;
   line-height: 14px;
-  color: brown;
+  color: brown !important;
 }
 a,
 button,
