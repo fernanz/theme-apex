@@ -1,4 +1,4 @@
-span.small {
+div.post div.post-body .post-content span.small {
     	font-family: 'Lora', serif;
 		font-style: italic;
 		float: right;
@@ -6,4 +6,4 @@ span.small {
 		font-size: 10px !important;
 		line-height: 14px;
 		color: brown !important;    
-	}
+}
