@@ -509,6 +509,9 @@ div.post div.post-body .post-content b,
 div.post div.post-body .post-content i {
   text-align: left;
 }
+div.post div.post-body .post-content small {
+  text-align: right;
+}
 div.post div.post-body .post-content ul strong,
 div.post div.post-body .post-content ol strong,
 div.post div.post-body .post-content li strong,
